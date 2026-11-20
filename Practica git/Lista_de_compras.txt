@@ -1,0 +1,17 @@
+Comida
+
+chistorra
+pastor
+chicharron
+longaniza
+carne
+
+bebidas
+
+agua de jamaica
+refrescos
+
+Ubicacion
+
+Casa de Rene
+Su casa a las 16:00 hrs
